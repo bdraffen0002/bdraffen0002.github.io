@@ -1,0 +1,32 @@
+[info]
+author = Bryan Earthscar
+name = making_a_game_p4
+title = The Dark Portal
+icon = game_example.jpg
+
+[paths]
+assets_dirs = deploy/assets/tutorials/making_a_game_p4/;
+blend_dirs = blender/tutorials/making_a_game_p4/;
+blender_exec = blender
+build_dir = deploy/apps/tutorials/making_a_game_p4/
+deploy_dir = 
+
+[compile]
+apps = game_example.html
+css_ignore = 
+engine_type = external
+js_ignore = 
+optimization = advanced
+use_physics = True
+use_smaa_textures = False
+version = 
+ignore = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+assets_path_dest = 
+ignore = 
+
+[url_params]
+
